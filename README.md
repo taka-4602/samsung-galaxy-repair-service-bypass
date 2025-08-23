@@ -9,7 +9,7 @@ Galaxy Harajuku / Galaxy Studio Osaka では日本で発売されたSamsung端�
     
   Z Fold 5は日本でも発売されたけど、対象になる端末は  
   SCG22 (KDDI) / SO-55D (NTT) / SM-F956Q (Samsung Japan) の3モデルのみ！  
-  今回僕が貼り替えをお願いした SM-F956B/DS (Global 2-nano-SIM) は対象外でした  
+  今回僕が貼り替えをお願いした SM-F946B/DS (Global 2-nano-SIM) は対象外でした  
   どこかにそう書いてあったのではなく、1回目にGalaxy Harajukuへ訪問した際に設定のAbout phoneを見られてから「日本版以外はハードウェアが同じでもこのショップで保証ができないので受け付けられません」とハッキリ言われました
 
 - **対象端末がキモい**  
@@ -21,7 +21,7 @@ Galaxy Harajuku / Galaxy Studio Osaka では日本で発売されたSamsung端�
   端末言語だけで海外版判定してくる~~頭の悪い~~店員が一定数いるので、余計なトラブルを避けるために貼り替えサービスを受ける間だけでも日本語に設定しておきましょう
 
 - **ハードウェア改造済み端末は対象外**  
-  後述しますが、僕の SM-F956B/DS はバックパネルが透明に改造されているので対象外のようです  
+  後述しますが、僕の SM-F946B/DS はバックパネルが透明に改造されているので対象外のようです  
   ちなみにフィルム貼り替えサービスが終わった後に気づかれて指摘されたので、バックパネルは基本的に見られていません、その代わりメインディスプレイに傷や表示不良がないかはめちゃくちゃ見られます  
   Galaxy Studio Osakaではなぜか電池の状態をADBで確認されましたが、Harajukuではディスプレイしか見られませんでした  
 
@@ -37,7 +37,7 @@ Galaxy Harajuku / Galaxy Studio Osaka では日本で発売されたSamsung端�
 これにより /system/system.prop の行がモジュールによって上書きされ、設定のAbout phoneに表示されるModel nameが変更されます  
 手動で書き換えはできないと思います (Androidのセキュリティーポリシーによって) [Magic Overlayfs](https://github.com/agreenbhm/magic_overlayfs) を使用してもsystem.propの内容は編集できませんでした  
 - **注意**  
-  2-nano-SIMモデルの端末の末尾につく /DS (SM-G970F/DSとかSM-F956B/DS) の表記は消えません！  
+  2-nano-SIMモデルの端末の末尾につく /DS (SM-G970F/DSとかSM-F946B/DS) の表記は消えません！  
   そのため2-nano-SIMで偽装すると 日本版モデル名/DS という存在しないモデル名 (日本版に2-nano-SIMモデルはナシ) ができあがります (僕はSCG22/DSになった)  
   でもショップ店員ってそんなGeekじゃないからバレないです
 
@@ -45,7 +45,7 @@ Galaxy Harajuku / Galaxy Studio Osaka では日本で発売されたSamsung端�
 ### もちろんKnoxは0x1トリップするから必要な人は気をつける
 ## Samsungストア体験記
 **1日目**:   
-原宿SamsungにFold 5 SM-F956B/DSをそのまま持っていき、店員にAbout phoneを見られると、どこで買ったかを聞かれる  
+原宿SamsungにFold 5 SM-F946B/DSをそのまま持っていき、店員にAbout phoneを見られると、どこで買ったかを聞かれる  
 グローバルモデルと正直に言ったら弾かれました  
 10秒で終わったので友達はきょとんとしていた  
 
