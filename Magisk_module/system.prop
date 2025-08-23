@@ -1,0 +1,3 @@
+ro.product.model=SCG22
+persist.radio.multisim.config=none
+ro.boot.dual_sim=false
