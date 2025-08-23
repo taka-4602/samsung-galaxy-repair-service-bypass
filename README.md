@@ -35,7 +35,7 @@ Galaxy Harajuku / Galaxy Studio Osaka では日本で発売されたSamsung端�
 ## 海外版を持ってる人がやること (要root!!!)
 このリポジトリに置いてあるMagiskモジュールをダウンロードしたら、```system.prop``` にある ```ro.product.model=SCG22``` の ```SCG22``` の部分を置き換えたい日本版の端末のモデル名に変えてインストールします  
 これにより /system/system.prop の行がモジュールによって上書きされ、設定のAbout phoneに表示されるModel nameが変更されます  
-手動で書き換えはできないと思います (Androidのセキュリティーポリシーによって) [Magisk Overlayfs](https://github.com/agreenbhm/magic_overlayfs) を使用してもsystem.propの内容は編集できませんでした  
+手動で書き換えはできないと思います (Androidのセキュリティーポリシーによって) [Magic Overlayfs](https://github.com/agreenbhm/magic_overlayfs) を使用してもsystem.propの内容は編集できませんでした  
 - **注意**  
   2-nano-SIMモデルの端末の末尾につく /DS (SM-G970F/DSとかSM-F956B/DS) の表記は消えません！  
   そのため2-nano-SIMで偽装すると 日本版モデル名/DS という存在しないモデル名 (日本版に2-nano-SIMモデルはナシ) ができあがります (僕はSCG22/DSになった)  
