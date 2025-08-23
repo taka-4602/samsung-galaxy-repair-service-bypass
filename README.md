@@ -8,7 +8,7 @@ Galaxy Harajuku / Galaxy Studio Osaka では日本で発売されたSamsung端�
   日本で発売されたモデル != 日本で **も** 発売されたモデル -> True
     
   Z Fold 5は日本でも発売されたけど、対象になる端末は  
-  SCG22 (KDDI) / SO-55D (NTT) / SM-F956Q (Samsung Japan) の3モデルのみ！  
+  SCG22 (KDDI) / SO-55D (NTT) / SM-F946Q (Samsung Japan) の3モデルのみ！  
   今回僕が貼り替えをお願いした SM-F946B/DS (Global 2-nano-SIM) は対象外でした  
   どこかにそう書いてあったのではなく、1回目にGalaxy Harajukuへ訪問した際に設定のAbout phoneを見られてから「日本版以外はハードウェアが同じでもこのショップで保証ができないので受け付けられません」とハッキリ言われました
 
