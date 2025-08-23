@@ -41,6 +41,8 @@ Galaxy Harajuku / Galaxy Studio Osaka では日本で発売されたSamsung端�
   そのため2-nano-SIMで偽装すると 日本版モデル名/DS という存在しないモデル名 (日本版に2-nano-SIMモデルはナシ) ができあがります (僕はSCG22/DSになった)  
   でもショップ店員ってそんなGeekじゃないからバレないです
 
+
+### もちろんKnoxは0x1トリップするから必要な人は気をつける
 ## Samsungストア体験記
 **1日目**:   
 原宿SamsungにFold 5 SM-F956B/DSをそのまま持っていき、店員にAbout phoneを見られると、どこで買ったかを聞かれる  
