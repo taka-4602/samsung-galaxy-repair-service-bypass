@@ -1,7 +1,7 @@
 # samsung-galaxy-repair-service-bypass
 Galaxy Harajuku / Galaxy Studio Osaka にてフィルム貼り替えの際、海外版でも貼り替えてもらえるようにしよう
 ## 概要
-Galaxy Harajuku / Galaxy Studio Osaka では日本で発売されたSamsung端末のフィルムを **無償で** 貼り替えてくれます (しかも専用機材があるからめっちゃきれに貼ってもらえる)  
+Galaxy Harajuku / Galaxy Studio Osaka では日本で発売されたSamsung端末のフィルムを **無償で** 貼り替えてくれます (しかも専用機材があるからめっちゃきれいに貼ってもらえる)  
 フィルム代と時間と労力を節約できる神サービス (特にFold端末のフィルムは1枚2500円とかなので) だから積極的に使っていきましょう  
 ## Samsung公式にもどっかのブログにも書いてない注意事項
 - **原則 日本版端末 のみ**  
